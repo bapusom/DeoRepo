@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Mavem Projet with Test Suite">
+  <test name="FreeCRM Test">
+    <classes>
+      <class name="com.crm.qa.tescases.LoginPageTest"/>
+    </classes>
+  </test>
+</suite>
